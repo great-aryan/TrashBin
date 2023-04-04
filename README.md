@@ -1,5 +1,5 @@
 # TrashBin
-Hii there,<br>The purpose of this repository is to make your contribution graph greener than chrolophyll.
+Hii there,<br>The purpose of this repository is to make your contribution graph greener than chrolophyll, learn Something and get you used to GitHub .
 
 <h4>You can contribute in many ways :</h4><br>
 <li>1. If you are developer, simply add anything which you are learning right now</li>
